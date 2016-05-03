@@ -1,0 +1,2 @@
+# 07_turorial07_customizing_the_admin_site
+Django1.9 tutorial07
